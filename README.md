@@ -2,11 +2,18 @@
 Basic python code to make a frequent pattern tree (FP-tree) from data containing transactions from a grocery store.
 
 dataset example:
+
 turkey,burgers,mineral water,eggs,cooking oil
+
 spaghetti,champagne,cookies
+
 mineral water,salmon
+
 mineral water
+
 shrimp,chocolate,chicken,honey,oil,cooking oil,low fat yogurt
+
+
 FP-Tree is constructed using 2 passes over the data-set:
 
 Pass 1:

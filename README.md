@@ -1,5 +1,6 @@
 # FP_Tree
 Basic python code to make a frequent pattern tree (FP-tree) from data containing transactions from a grocery store.
+
 FP-Tree is constructed using 2 passes over the data-set:
 Pass 1:
 Scan data and find support for each item.
